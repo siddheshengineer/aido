@@ -11,4 +11,4 @@ Good for: org or context specific usecases
 
 - Chain of Thought: Enhances performance of LLM, by asking LLM to use it's reasoning capabilites. (AI Agents)
 
-Include -> Context, Instruction, Examples, O/p format
+Include -> Context, Instruction, Examples, O/p format.
